@@ -6,14 +6,14 @@
     <artifactId>maven-multimodule-example-service</artifactId>
 
     <parent>
-        <groupId>com.kkasztel</groupId>
+        <groupId>com.kkasztel.maven-multimodule-example</groupId>
         <artifactId>maven-multimodule-example</artifactId>
         <version>${revision}</version>
     </parent>
 
     <dependencies>
         <dependency>
-            <groupId>com.kkasztel</groupId>
+            <groupId>com.kkasztel.maven-multimodule-example</groupId>
             <artifactId>maven-multimodule-example-api</artifactId>
             <version>${project.version}</version>
         </dependency>

@@ -6,7 +6,7 @@
     <artifactId>maven-multimodule-example-api</artifactId>
 
     <parent>
-        <groupId>com.kkasztel</groupId>
+        <groupId>com.kkasztel.maven-multimodule-example</groupId>
         <artifactId>maven-multimodule-example</artifactId>
         <version>${revision}</version>
     </parent>
