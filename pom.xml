@@ -21,7 +21,7 @@
 
         <lombok-version>1.18.16</lombok-version>
         <vavr.version>0.10.3</vavr.version>
-        <guava.version>30.0-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
 
         <junit-version>5.7.0</junit-version>
         <mockito.version>3.6.0</mockito.version>
